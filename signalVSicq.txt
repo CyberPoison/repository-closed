@@ -1,0 +1,61 @@
+\\ Signal vs ICQ // ? Bether Security = Bether Anonymity
+
+Hello people,
+
+Well to day i leave here some best reviews about anonymity and security about yours messages,
+
+\\SIGNAL MESSENGER//
+
+Signal is available for free from Google Play.
+
+There's no upselling, ads, or microtransactions. The entire app is entirely free. Most messaging services, even secure ones like Editors' Choice Wickr, require that you create an account first. With Signal, there's none of that: no passwords to remember, and no accounts to be compromised. Instead, the app authorizes your device by sending it a special text message. Once it's received, you're all set. You'll definitely want to make sure you've locked your phone with a passcode and set up Android Device Manager to make sure no one steals your phone and impersonates you.
+
+
+
+Mixed Messaging
+The inclusion of unencrypted messaging in Signal might seem odd, but remember that Signal is a full replacement for your text messaging app. When you use Signal to send a message to non-Signal users, it's sent as a standard text message. If the recipient is a Signal user, it's automatically encrypted. This neatly solves the fundamental problem with most secure messaging apps where you end up using one app for sending encrypted missives and another app for everything else. Signal covers all of your day-to-day and secure messaging needs.
+
+editor rating: excellent
+rating: 4.5 / 5
+Source: pcmag.com
+
+\\ ICQ Messenger //
+
+Yahoo, ICQ chats still vulnerable to government snoops
+
+
+Spy agencies and hackers at your local Starbucks can vacuum up Yahoo and ICQ chats and metadata about AOL's AIM users. These services are over a decade old -- why are they not fully encrypted?
+
+Nine months after Edward Snowden revealed extreme Internet surveillance by US and British intelligence agencies, some major technology companies have yet to take rudimentary steps to shield their users' instant messages from eavesdropping.
+
+A CNET analysis shows that Yahoo and ICQ transmit the content of supposedly private instant messages in unencrypted form, exposing them to both government spies and malicious snoops on the same Wi-Fi network. AOL's AIM service encrypts content -- but leaks metadata about who's talking to whom.
+
+ICQ messages were also unencrypted, as you can see in the above screen capture from the Wireshark packet analyzer. AOL's AIM client leaked metadata about who's talking to whom
+
+reviews: 3 / 5 pcmag.com
+source : /[URL="http://www.cnet.com/news/yahoo-icq-chats-still-vulnerable-to-government-snoops/"]www.cnet.com/news/yahoo-icq-chats-still-vulnerable-to-government-snoops/[/URL]
+cnet.com
+
+Look more on google, but Signal is developed to get a strong security on messaging encryption and never has been hacked at today, nobody can record you messages or intercept this with sniffers tools like( Whireshark or other similar programs)
+
+I suggest people do a migration to Signal and forget ICQ but a low security is your risk,
+
+sites recommend signal:
+
+(Tomguide)
+[URL]http://www.tomsguide.com/us/pictures-story/761-best-encrypted-messaging-apps.html#s2[/URL]
+
+(Business news daily)
+[URL]http://www.businessnewsdaily.com/6981-secure-messaging-apps-business.html[/URL]
+
+(techworld)
+[URL]http://www.techworld.com/security/best-secure-mobile-messaging-apps-2015-3629914/2/[/URL]
+
+I suggest people buy a SIM pre payed card in a shop to use Signal because you need to regist a number and a pre payed card don't have any address to find you !!!
+
+
+All other suggestion is welcome
+
+
+Best Regards,
+Screamfox 
