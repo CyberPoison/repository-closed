@@ -1,0 +1,212 @@
+Hello everybody,
+
+well today i leave here a little review between Nord VPN & Black VPN
+
+Well firstly remember what is the Offshore islands
+
+Anguilla *
+* | 0 € (**) | | none (***)| 0 % (**+) |Common (**++) | 2-3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Bahamas *
+* | 0 € (**) | | none (***)| 0 % (**+) |Common (**++) | 2-3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Belize *
+* | 0 € (**) | | none (***)| 0 % (**+) |Common (**++) | 2-3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+BVI (British Virgin Islands) *
+* | 0 € (**) | | none (***)| 0 % (**+) |Common (**++) | 2-3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Cyprus *
+
+* | 0 € (**) | | yes (***)| 12.5 % (**+) |Common (**++) | 10 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Delaware *
+* | 0 € (**) | | none (***)| 0 % (**+) |Common (**++) | 2-3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Florida *
+* | 0 € (**) | | none (***)| 0 % (**+) |US LAW (**++) | 3-4 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Gibraltar *
+
+* | 0 € (**) | | yes (***)| 10 % (**+) |Common (**++) | 1 week (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Hong Kong *
+* | 1 HK$ (**) | | yes (***)| 0 % (**+) |Common (**++) | 1-2 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Latvia *
+
+* | 0 € (**) | | yes (***)| 15 % (**+) |Common (**++) | 3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+St Lucia *
+
+* | 0 € (**) | | none (***)| 0 % (**+) |Civil & Common (**++) | 1-3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Malta *
+
+* | 240 € (**) | | yes (***)| 5 % (**+) |Common (**++) | 3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Mauritius *
+
+* | 0 € (**) | | yes (***)| 0 % (**+) |Common (**++) | 1 Week (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Panama *
+
+* | 0 € (**) | | none (***)| 0 % (**+) | Civil & Common (**++) | 3-4 days (**++^) | 3 (**++^^) | Yes (**++^^^) |
+
+Ras Al Khaimah *
+
+* | 0 € (**) | | none (***)| 0 % (**+) |U.A.E law (**++) | 1-2 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Samoa *
+
+* | 0 € (**) | | none (***)| 0 % (**+) | Common (**++) | 1-2 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+Seychelles *
+
+* | 0 € (**) | | none (***)| 0 % (**+) | Common (**++) | 1-2 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+
+
+Singapore *
+
+* | 1 SGD (**) | | yes (***)| 8.5-17 % (**+) | Common (**++) | 1-5 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+
+Switzerland *
+
+* | 100 000 CHF (**) | | yes (***)| 8-35 % (**+) | Civil (**++) | 10 days (**++^) | 1 (**++^^) | yes (**++^^^) |
+
+
+UK *
+
+* | 1 GBP (**) | | yes (***)| 21 % (**+) | Common (**++) | 1-2 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+
+St Vincent *
+
+* | 0 € (**) | | none (***)| 0 % (**+) |Civil & Common (**++) | 1-3 days (**++^) | 1 (**++^^) | no (**++^^^) |
+
+
+* - Anonymity \\ (Every Islands i said) //
+
+** - Paid Up Capital Requirement
+
+*** - Accounting Requeriments
+
+**+ - Tax on Benefits (on Profits "%")
+
+**++ - Basis of Legal System
+
+**++^ - Time To Form (A Company )
+
+**++^^ - Minimum Share Holders & Minimum Directors
+
+**++^^^ - Bearer Shares Permited
+
+Source: sfm-offshore.com
+
+Well, now we know the jurisdiction in offshore Islands but we don't know where is the best place to select our VPN
+but....
+
+After hours doing search on google and talking with a lawyer the best place where the island "Offshore" don't cooperate with USA and E.U is:
+
+Hong Kong, Panama & BVI
+
+Well Now we go to do our NordVPN VS Black VPN reviews.
+
+Black VPN
+
+JURISDICTION : Based In (Country) --> Hong Kong
+
+
+LOGGING
+
+Logs Traffic: No
+Logs DNS Requests: No
+Logs Timestamps: No
+Logs Bandwidth: BLANK
+Logs IP Address: No
+
+
+ACTIVISM
+
+Anonymous Payment Method: Email
+Accepts Bitcoin: Yes
+PGP Key Available: Yes
+Warrant Canary: No
+Meets PrivacyTools IO Criteria: Yes
+
+PROTOCOLS
+Offers PPTP: Yes
+Offers OpenVPN: Yes
+
+
+More in--> Source : [URL]https://thatoneprivacysite.net/2016/06/14/blackvpn-review/[/URL]
+
+NordVPN
+
+Well is more commun and i understand this choice because is the best VPN on the market.
+and have a lot of reviews and good starts (5 / 5 ) have hong kong location and etc...
+
+
+Strict no log policy
+
+Custom software for Windows, OS X, iOS and Android
+
+Connect up to 6 Devices under one account
+
+P2P Friendly
+
+No Bandwidth Limit
+
+Pay using Bitcoin, PayPal, Credit Cards and more
+
+737 servers in 58 countries (Updated regularly)
+
+Double VPN for increased anonymity
+
+IKEv2/IPsec, OpenVPN, PPTP, L2TP, IPSec security protocols offered
+
+Free proxy list (up to 3000 free proxies)
+
+Multiple Device Support: iPhone, iPad, Routers, Game Consoles and More
+
+Multiple OS Support: Win, iOS, OS X, Android, Linux, Blackberry and More
+Shared IP (static/dynamic)
+
+Dedicated IPs (special price)
+
+Own DNS servers
+
+OpenVPN AES-256-SHA
+
+IKEv2/IPsec (AES-256-GCM / SH
+
+A2-384 / PFS 3072-bit)
+
+Unique SmartPlay feature for added streaming connectivity
+
+Customer Support (24/7) via Ticket system, Facebook, Twitter or Email
+
+Encrypted chat
+
+Convenient server map & custom software
+
+Well i use right now Nord_VPN but i don't know where is based her company if is based in USA the Juridiction is USA and not where is you VPN but if you are from per exemple E.U and you use your VPN using a LT2P Protocol you can get a very strong security and is bether if you select Panama and BVI or HK for now i think is the best VPN but if some people have cons please let a comment to know cons !
+
+Remember use every-time one of the Offshore location to improve the security and the biggest complication on jurisdiction,
+BlackVPN is my next VPN and i think is good but i let here news about it.
+
+Let here some comments about your impressions .
+
+INFO
+remember pay every time with bitcoin (BTC) or Monero (XMR) Monero is untraceable (Best than Bitcoin)
+and use a faike e-mail some [URL]https://bitmessage.ch/[/URL] or protonmail.com
+and obviously fake info some Name and etc....
+
+
+Best Regards,
+Screamfox 
+
+source:
+http://pwoah7foa6au2pul.onion/forum/index.php?threads/nord_vpn-or-blackvpn.128077/
