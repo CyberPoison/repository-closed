@@ -1,8 +1,10 @@
 # 0x2424config
 Improve your rate to do carding
 
-# 0x2423config
-Config for Firefox Leaking anonymity
+
+
+
+
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$CARDING$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
